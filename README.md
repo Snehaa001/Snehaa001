@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sneha Agrawal
 - 👀 I’m interested in dance and sports
-- 🌱 I’m currently learning c++ and web development
-- 💞️ I’m looking to collaborate for c and c++ projects
+- 🌱 I’m into the field of machine learning and data science
+- 💞️ I’m looking for internships and jobs in these fields
 - 📮 Reach me via - snehaagrawal7489@gmail.com
 
 <!---
